@@ -11,7 +11,7 @@
 # Imagine you have a small business, and there is a warehouse or store "this is the hard disk", there is a table where work should be done from "this is RAM", and there is a worker doing the job "this is the CPU", now ask yourself can a worker do their work from inside the warehouse where everything is congested and packed tightly?, absolutely no, because its very slow and stressful with little work space, so the worker will do this,they will pick what they need from the warehouse, bring it on the table, works on it and then returns the things to the warehouse, so RAM connects the CPU and the hard disk by acting like a workspace.
 
 # A variable
-# So think of a pigy bank or a box, you can name it Money,and today you put inside it 10,000 inside it, and then tomorrow you remove the 10,000 and put 5,000, The pigy bank remained the same but the contents inside it were the ones changed, So a variable is just basically a named space in memory where you can store a value and you can change that value anytime you want
+# So think of a pigy bank or a box, you can name it "Money",and today you put inside it 10,000 inside it, and then tomorrow you remove the 10,000 and put 5,000, The pigy bank remained the same but the contents inside it were the ones changed, So a variable is just basically a named space in memory where you can store a value and you can change that value anytime you want
 
 # A statement 
 # Now think og giving your young broyher an instruction like, "start the bike, turn left, turn right,stop here", each one of these is a single complete instruction, So basically in programming, a statement is one single instruction that tells a computer to do something, it could be calculate something or store something etc.
